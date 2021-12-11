@@ -1,7 +1,7 @@
 <h2 align="center"> Hola 🖤<br/></h2> 
 <h3 align="center"> Discord: Lovely#0069<br> <br>
 <br> <br>
-  <a href="https://github.com/IsratIJK" target="_blank">
+  <a href="https://github.com/AntisocialProgramming" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=AntisocialProgramming&label=Views&color=brightgreen&style=flat-square" alt="Views" />
   </a>
   </h3>   
@@ -26,7 +26,7 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![C#](https://img.shields.io/badge/C#-00599C?style=for-the-badge&logo=c#&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
 
