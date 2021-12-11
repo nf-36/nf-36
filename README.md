@@ -8,7 +8,7 @@
                              
                     
 <details align="center"> 
-  <summary>GitHub Trophies ðŸ†</summary>
+  <summary>GitHub Trophies 🏆</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=AntisocialProgramming&theme=gruvbox"/>
