@@ -1,4 +1,4 @@
-<h2 align="center"> Hola ðŸ™ƒ<br/></h2> 
+<h2 align="center"> Hola 🖤<br/></h2> 
 <h3 align="center"> Discord: Lovely#0069<br> <br>
 <br> <br>
   <a href="https://github.com/IsratIJK" target="_blank">
