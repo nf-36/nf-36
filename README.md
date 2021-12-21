@@ -1,5 +1,5 @@
 <h2 align="center"> Hola 🖤<br/></h2> 
-<h3 align="center"> Discord: Lovely#0069<br> <br>
+<h3 align="center"> Discord: AntisocialProgramming#0069<br> <br>
 <br> <br>
   <a href="https://github.com/AntisocialProgramming" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=AntisocialProgramming&label=Views&color=brightgreen&style=flat-square" alt="Views" />
