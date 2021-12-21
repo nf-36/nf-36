@@ -27,16 +27,6 @@
 
 
 
-<h2 align="center">
-My Current Station </h2>
-
-<div align="center">
-  
-![Laptop](https://img.shields.io/badge/Windows-NVIDIA-brightgreen) 
-<br> 
-  
-
-
 </div>
 
 ----------
