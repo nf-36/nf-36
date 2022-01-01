@@ -24,6 +24,7 @@
 
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![LUA](https://img.shields.io/badge/Lua-Roblox-red)
 
 
 
