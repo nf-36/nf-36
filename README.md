@@ -17,17 +17,6 @@
 </details>
 
 
-<h2 align="center">
-
- Apps & Languages 
-</h2>
-
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![LUA](https://img.shields.io/badge/Lua-Roblox-red)
-![FL Studio 20](https://img.shields.io/badge/Audio-FL%20Studio-orange)
-
-
 </div>
 
 ----------
