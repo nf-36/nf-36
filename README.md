@@ -1,24 +1,16 @@
-<h2 align="center"> Hola 🖤<br/></h2> 
-<h3 align="center"> Discord: Valenity#4107<br> <br>
-<br> <br>
-  <a href="https://github.com/Valenity" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=AntisocialProgramming&label=Views&color=brightgreen&style=flat-square" alt="Views" />
-  </a>
-  </h3>   
-                             
-                    
-<details align="center"> 
-  <summary>GitHub Trophies 🏆</summary>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Valenity&theme=gruvbox"/>
-  </a>
-</p>
-</details>
+<div align="center">
 
+<br>
 
+## About Me
+
+I am the creator of Oasis, a multi-purpose AI software that allows users to learn about various subjects and topics. With Oasis, you can easily access educational resources and improve your knowledge on a wide range of subjects. 
+<br>
+  
+[![Oasis Button](https://img.shields.io/badge/Oasis-Learn%20More-blue?style=for-the-badge)](https://discord.gg/rHF4J89q64)
+<br>
+<br>
+  
+[![Views](https://komarev.com/ghpvc/?username=AntisocialProgramming&label=Views&color=brightgreen&style=flat-square)](https://github.com/Valenity)
+<br>
 </div>
-
-----------
-Credit: [IsratIJK](https://github.com/IsratIJK)
-Last Edited on: 08/3/22
