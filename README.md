@@ -11,6 +11,5 @@ I am the creator of Solutioneer, a multi-purpose AI software that allows users t
 <br>
 <br>
   
-[![Views](https://komarev.com/ghpvc/?username=AntisocialProgramming&label=Views&color=brightgreen&style=flat-square)](https://github.com/Valenity)
-<br>
+![](https://komarev.com/ghpvc/?username=Valenity)<br>
 </div>
