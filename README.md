@@ -1,14 +1,3 @@
-<!-- HEADER -->
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=nf-36&label=PROFILE+VIEWS&color=003EB7&style=for-the-badge)
-
-# 👋 Hey, I'm **nf-36**
-### 🚀 Founder of **Koronis** | 💻 Developer | 🎵 Music Producer
-
----
-
-</div>
 
 ## 📊 GitHub Analytics
 
@@ -32,7 +21,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=nf-36&theme=dark&date_format=j%20M%5B%20Y%5D&background=00000000&border=003EB7&stroke=003EB7&ring=003EB7&fire=003EB7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=003EB7&sideLabels=003EB7&dates=ffffff)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nf-36&theme=react-dark&bg_color=00000000&hide_border=true&area=true&custom_title=Contribution%20Timeline&color=003EB7&line=003EB7&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![Profile Views](https://komarev.com/ghpvc/?username=nf-36&label=PROFILE+VIEWS&color=003EB7&style=for-the-badge)
 </div>
 
 ---
