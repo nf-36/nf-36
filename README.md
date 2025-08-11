@@ -1,47 +1,62 @@
+<!-- HEADER -->
 <div align="center">
-  
-<!-- Dynamic View Counter -->
-![](https://komarev.com/ghpvc/?username=nf-36&label=PROFILE+VIEWS&color=003EB7&style=flat-square)
-  
-<!-- Animated Header -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Founder+of+Koronis&center=true&size=26&color=003EB7">
-  </a>
-</h1>
 
-<!-- GitHub Stats & Trophy Shelf -->
-<table>
-  <tr>
-    <td>
-      <!-- GitHub Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=nf-36&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=003EB7&icon_color=003EB7" />
-    </td>
-    <td>
-      <!-- Trophy Case -->
-      <img src="https://github-profile-trophy.vercel.app/?username=nf-36&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&title=MultiLanguage,Repositories,Commits,PullRequest&column=5" />
-    </td>
-  </tr>
-</table>
+![Profile Views](https://komarev.com/ghpvc/?username=nf-36&label=PROFILE+VIEWS&color=003EB7&style=for-the-badge)
 
-<!-- Activity Graph -->
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nf-36&theme=react-dark&bg_color=00000000&hide_border=true&area=true&custom_title=Contribution%20Timeline&color=003EB7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+# 👋 Hey, I'm **nf-36**
+### 🚀 Founder of **Koronis** | 💻 Developer | 🎵 Music Producer
 
-<!-- Tech Stack -->
-## 🛠️ Tech Arsenal
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=003EB7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Roblox+LuaU+Specialist;C%23+and+Python+Enthusiast;Building+Koronis;Always+Learning+%26+Creating" />
+</a>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![LuaU](https://img.shields.io/badge/-LuaU(Roblox)-003EB7?style=flat-square&logo=roblox&logoColor=white)
-![FL Studio](https://img.shields.io/badge/-FL%20Studio-003EB7?style=flat-square&logo=fl-studio&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-<!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=nf-36&theme=dark&date_format=j%20M%5B%20Y%5D&background=00000000&border=003EB7&stroke=003EB7&ring=003EB7&fire=003EB7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=003EB7&sideLabels=003EB7&dates=ffffff)](https://git.io/streak-stats)
-
-<!-- Discord Integration -->
-## 🎧 Live Status
-[![Discord Presence](https://lanyard.cnrad.dev/api/1192437285673783456?bg=00000000&borderRadius=10px&idleMessage=Probably%20coding%20something%20awesome...)](https://discord.com/users/1192437285673783456)
+---
 
 </div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nf-36&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=003EB7&icon_color=003EB7)
+
+</td>
+<td>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=nf-36&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=15&title=MultiLanguage,Repositories,Commits,PullRequest)
+
+</td>
+</tr>
+</table>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nf-36&theme=dark&date_format=j%20M%5B%20Y%5D&background=00000000&border=003EB7&stroke=003EB7&ring=003EB7&fire=003EB7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=003EB7&sideLabels=003EB7&dates=ffffff)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nf-36&theme=react-dark&bg_color=00000000&hide_border=true&area=true&custom_title=Contribution%20Timeline&color=003EB7&line=003EB7&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🌌 About Me
+
+💡 **Innovator at heart**, blending creativity with technical skill.  
+🎵 Producing music in **FL Studio** as a creative outlet.  
+🛠 Always exploring **automation**, **UI/UX design**, and **system optimization**.  
+
+---
+
+## 📬 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nf-36)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1192437285673783456)
+[![Email](https://img.shields.io/badge/-Email-003EB7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nf36@proton.me)
+
+</div>
+
+---
