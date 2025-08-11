@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=nf-36&label=PROFILE+VIEWS&color=003EB7&style=for-the-badge)
 
 # 👋 Hey, I'm **nf-36**
-### 🚀 Founder of **Koronis** | 💻 Developer | 🎵 Music Produce
+### 🚀 Founder of **Koronis** | 💻 Developer | 🎵 Music Producer
 
 ---
 
