@@ -4,11 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=nf-36&label=PROFILE+VIEWS&color=003EB7&style=for-the-badge)
 
 # 👋 Hey, I'm **nf-36**
-### 🚀 Founder of **Koronis** | 💻 Developer | 🎵 Music Producer
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=003EB7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Roblox+LuaU+Specialist;C%23+and+Python+Enthusiast;Building+Koronis;Always+Learning+%26+Creating" />
-</a>
+### 🚀 Founder of **Koronis** | 💻 Developer | 🎵 Music Produce
 
 ---
 
